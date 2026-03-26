@@ -1,0 +1,1 @@
+javascript:(function(){const s=['.p-Footer','.gmoGroupFooter','.gmoGroupHeader'];document.querySelectorAll(s.join(',')).forEach(el=>el.remove());document.documentElement.style.overflow='hidden';document.body.style.overflow='hidden';document.body.style.marginTop='-28px';})();
